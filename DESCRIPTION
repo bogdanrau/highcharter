@@ -2,10 +2,7 @@ Package: highcharter
 Type: Package
 Version: 0.6.0
 Title: A Wrapper for the 'Highcharts' Library
-Description: A wrapper for the 'Highcharts' library including
-    shortcut functions to plot R objects. 'Highcharts'
-    <http://www.highcharts.com/> is a charting library offering
-    numerous chart types with a simple configuration syntax.
+Description: A wrapper for the 'Highcharts' library including shortcut functions to plot R objects. 'Highcharts' <http://www.highcharts.com/> is a charting library offering numerous chart types with a simple configuration syntax.
 Authors@R: c(
   person("Joshua", "Kunst", role = c("aut", "cre"), email = "jbkunst@gmail.com"),
   person("Nuno", "Agostinho", role = c("ctb"), comment  = "hchart.survfit, densities and hc_add_series_scatter"),
